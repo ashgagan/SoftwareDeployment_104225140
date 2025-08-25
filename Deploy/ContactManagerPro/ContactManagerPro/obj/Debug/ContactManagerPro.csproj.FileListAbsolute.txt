@@ -1,0 +1,16 @@
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\ContactManagerPro.exe.config
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\ContactManagerPro.exe
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\ContactManagerPro.pdb
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.csproj.AssemblyReference.cache
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.Form1.resources
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.Properties.Resources.resources
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.csproj.GenerateResource.cache
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.csproj.CoreCompileInputs.cache
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactM.C09FA206.Up2Date
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.exe
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.pdb
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\ContactValidationLibrary.dll
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\bin\Debug\ContactValidationLibrary.pdb
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactManagerPro\obj\Debug\ContactManagerPro.exe.config

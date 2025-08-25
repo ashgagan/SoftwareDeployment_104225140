@@ -1,0 +1,6 @@
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\WixContact\bin\Debug\WixContact.msi
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\WixContact\bin\Debug\WixContact.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixContact.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixContact.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixContact.wixproj.BindBuiltOutputsFileListnull.txt

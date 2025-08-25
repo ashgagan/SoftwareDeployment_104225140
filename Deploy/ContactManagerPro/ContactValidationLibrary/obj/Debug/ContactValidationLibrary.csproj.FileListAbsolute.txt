@@ -1,0 +1,6 @@
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactValidationLibrary\bin\Debug\ContactValidationLibrary.dll
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactValidationLibrary\bin\Debug\ContactValidationLibrary.pdb
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactValidationLibrary\obj\Debug\ContactValidationLibrary.csproj.AssemblyReference.cache
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactValidationLibrary\obj\Debug\ContactValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactValidationLibrary\obj\Debug\ContactValidationLibrary.dll
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\ContactValidationLibrary\obj\Debug\ContactValidationLibrary.pdb

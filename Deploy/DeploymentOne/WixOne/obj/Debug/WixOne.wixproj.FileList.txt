@@ -1,0 +1,6 @@
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WixOne\bin\Debug\WixOne.msi
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WixOne\bin\Debug\WixOne.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixOne.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixOne.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixOne.wixproj.BindBuiltOutputsFileListnull.txt

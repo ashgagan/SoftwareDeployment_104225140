@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\bin\AnyCPU\Debug\WinUniversalPackageOne_1.0.0.0_AnyCPU_Debug.msix
+SymbolPackage=C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\obj\Debug\Symbols\WinUniversalPackageOne_1.0.0.0_AnyCPU_Debug.appxsym

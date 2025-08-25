@@ -1,0 +1,10 @@
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\bin\Debug\DeploymentOne.exe.config
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\bin\Debug\DeploymentOne.exe
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\bin\Debug\DeploymentOne.pdb
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.csproj.AssemblyReference.cache
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.Properties.Resources.resources
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.csproj.GenerateResource.cache
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.csproj.CoreCompileInputs.cache
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.exe
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.pdb
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\obj\Debug\DeploymentOne.exe.config

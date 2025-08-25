@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file://localhost/WinUniversalPackageOne.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="0f8b7680-8528-44df-ad54-8a8b245d2bc0"
+		Version="1.0.0.0"
+		Publisher="CN=Nayan"
+		Uri="file://localhost/WinUniversalPackageOne_1.0.0.0_Debug_Test/WinUniversalPackageOne_1.0.0.0_AnyCPU_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

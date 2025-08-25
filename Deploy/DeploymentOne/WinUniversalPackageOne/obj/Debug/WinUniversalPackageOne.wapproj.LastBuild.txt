@@ -1,0 +1,11 @@
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\SplashScreen.scale-200.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\LockScreenLogo.scale-200.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\Square150x150Logo.scale-200.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\Square44x44Logo.scale-200.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\StoreLogo.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\Images\Wide310x150Logo.scale-200.png
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\WinUniversalPackageOne\bin\AnyCPU\Debug\resources.pri
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\bin\Debug\DeploymentOne.exe
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\bin\Debug\DeploymentOne.exe.config
+C:\Users\Nayan\Desktop\Deploy\DeploymentOne\DeploymentOne\bin\Debug\DeploymentOne.pdb

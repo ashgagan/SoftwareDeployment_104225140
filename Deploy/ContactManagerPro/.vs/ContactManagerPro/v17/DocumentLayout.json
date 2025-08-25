@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976E4DB7-392C-4D43-A6F6-CF748373EE3C}|WixContact\\WixContact.wixproj|C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\WixContact\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{976E4DB7-392C-4D43-A6F6-CF748373EE3C}|WixContact\\WixContact.wixproj|solutionrelative:WixContact\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AD61D-4C5B-4F73-BABB-96E73DAA52E0}|ContactValidationLibrary\\ContactValidationLibrary.csproj|c:\\users\\nayan\\desktop\\deploy\\contactmanagerpro\\contactvalidationlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AD61D-4C5B-4F73-BABB-96E73DAA52E0}|ContactValidationLibrary\\ContactValidationLibrary.csproj|solutionrelative:contactvalidationlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330B5528-F5BA-4718-9937-2FDE386CE62E}|ContactManagerPro\\ContactManagerPro.csproj|c:\\users\\nayan\\desktop\\deploy\\contactmanagerpro\\contactmanagerpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330B5528-F5BA-4718-9937-2FDE386CE62E}|ContactManagerPro\\ContactManagerPro.csproj|solutionrelative:contactmanagerpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330B5528-F5BA-4718-9937-2FDE386CE62E}|ContactManagerPro\\ContactManagerPro.csproj|c:\\users\\nayan\\desktop\\deploy\\contactmanagerpro\\contactmanagerpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{330B5528-F5BA-4718-9937-2FDE386CE62E}|ContactManagerPro\\ContactManagerPro.csproj|solutionrelative:contactmanagerpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330B5528-F5BA-4718-9937-2FDE386CE62E}|ContactManagerPro\\ContactManagerPro.csproj|c:\\users\\nayan\\desktop\\deploy\\contactmanagerpro\\contactmanagerpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330B5528-F5BA-4718-9937-2FDE386CE62E}|ContactManagerPro\\ContactManagerPro.csproj|solutionrelative:contactmanagerpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\WixContact\\Product.wxs",
+              "RelativeDocumentMoniker": "WixContact\\Product.wxs",
+              "ToolTip": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\WixContact\\Product.wxs",
+              "RelativeToolTip": "WixContact\\Product.wxs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T11:57:21.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactManagerPro\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagerPro\\Program.cs",
+              "ToolTip": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactManagerPro\\Program.cs",
+              "RelativeToolTip": "ContactManagerPro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:52:42.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactValidationLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ContactValidationLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactValidationLibrary\\Class1.cs",
+              "RelativeToolTip": "ContactValidationLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:50:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactManagerPro\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactManagerPro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactManagerPro\\Form1.cs",
+              "RelativeToolTip": "ContactManagerPro\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:38:27.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactManagerPro\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactManagerPro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nayan\\Desktop\\Deploy\\ContactManagerPro\\ContactManagerPro\\Form1.cs [Design]",
+              "RelativeToolTip": "ContactManagerPro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:36:35.845Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

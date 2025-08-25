@@ -1,0 +1,2 @@
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\WixContact\bin\Debug\WixContact.msi
+C:\Users\Nayan\Desktop\Deploy\ContactManagerPro\WixContact\bin\Debug\WixContact.wixpdb
